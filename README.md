@@ -1,5 +1,6 @@
 
 # Visual Thinking
+<img src='https://github.com/Daniquedejong/lose-your-head-the-client-case/assets/112856683/3d34589b-d9a4-4b92-bebb-482fb2d30fda' width=50%>
 
 ## 📚 Inhoudsopgave
 
